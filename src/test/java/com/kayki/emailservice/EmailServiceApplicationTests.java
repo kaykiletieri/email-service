@@ -1,4 +1,4 @@
-package com.kipper.emailservice;
+package com.kayki.emailservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
